@@ -1,0 +1,40 @@
+*  {
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:lavenderblush;
+    
+   }
+h1  {
+    color:hsl(240, 100%, 88%);
+    font-size: 70px;
+}
+
+h2 {
+    color:rgb(236, 113, 226);
+    text-decoration: underline;
+    text-decoration-color:hsl(240, 100%, 88%);
+    
+}
+
+p, ul {
+    font-size: 22px;
+    line-height: 1.2;
+    color:hsl(240, 100%, 88%);
+}
+
+ul {
+
+    position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style-type: none; 
+  padding-left: 0; 
+  font-size: 22px;
+    
+    
+    
+    
+   
+}
+
